@@ -1,5 +1,4 @@
 # PSMDSRC103-CPE-019_2425
-<h1 align=left>PSMDSRC 103 Programming Hub</h1>
 
 ###
 
