@@ -4,7 +4,7 @@
 
 <h2 align=left>About Me</h3>
 
-<p>Hi, I'm Kiara. I'm 24 years old. I graduated with a degree in Linguistics, which might be a little far from the data science field in technical terms, but still applicable especially with with ✨Natural Language Processing✨.</p>
+<p>Hi, I'm Kiara. I'm 24 years old. I graduated with a degree in Linguistics, which might be a little far from the data science field in technical terms, but still applicable especially with ✨Natural Language Processing✨.</p>
 
 ###
 
